@@ -7,9 +7,12 @@ this is lab-03 CS-G
 <br/>
 we studied Github
 <br/>
-_this is italic_
+_This is italic_
 
 <br/>
 - Unordered list1
 - unordered list 2
-- 
+ <br/>
+ 1. order list1
+ 2. order list2
+ 3. order list 3
